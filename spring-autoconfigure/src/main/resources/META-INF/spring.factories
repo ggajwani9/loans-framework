@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.example.autoconfig.MyAutoConfiguration,\
+com.example.autoconfig.DataSourceAutoConfiguration, \
+com.example.autoconfig.WebSocketAutoConfiguration
